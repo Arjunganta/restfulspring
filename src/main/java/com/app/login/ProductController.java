@@ -15,7 +15,7 @@ private ProductService productService;
 
 @RequestMapping("/")
 String getSomething(){
-  return "Running on Heroku";
+  return "Running on Heroku server";
 }
 
 
