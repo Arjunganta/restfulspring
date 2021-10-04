@@ -1,4 +1,5 @@
-#git push https://Arjunganta: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@github.com/Arjunganta/restfulspring.git
+#git push https://Arjunganta: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@github.com/Arjunganta/restfulspring.git
 #mvn spring-boot:run
 git add .
+#git commit -m "Added heroku url"
 
